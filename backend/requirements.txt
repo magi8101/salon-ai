@@ -1,4 +1,6 @@
 fastapi
-uvicorn
+granian
 groq
 python-dotenv
+supabase
+python-multipart
