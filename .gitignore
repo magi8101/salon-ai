@@ -1,0 +1,9 @@
+.env
+*.swp
+*.zip
+__pycache__/
+.venv/
+node_modules/
+.next/
+frontend/AGENTS.md
+.worktrees/
